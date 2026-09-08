@@ -1,0 +1,9 @@
+{
+  "name": "LinkApp Global",
+  "description": "A production-ready, globally scalable real-time messaging platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "notifications"
+  ]
+}
